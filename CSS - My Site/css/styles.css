@@ -1,0 +1,109 @@
+body{
+  color:#40514E
+  margin:0;
+  text-align:center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  color: #66BFBF;
+    padding-top: 10px;
+  font-size: 3.5rem;
+  margin:20,auto,0,auto;
+font-family: 'Sacramento', cursive;
+}
+h2{
+    color: #66BFBF;
+font-weight: normal;
+
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+    color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+.top-container{
+
+    background-color: #E4F9F5;
+    position:relative;
+    padding-top: 10px;
+
+}
+.middle-container{
+margin: 70px 0 40px 0;
+
+}
+.bottom-container{
+background-color: #66BFBF;
+padding:30px 0 20px;
+
+}
+.pro{
+  text-decoration: underline;
+}
+.top-cloud{
+
+  position:absolute;
+  top:50px;
+  right:270px;
+}
+.bottom-cloud{
+  position:absolute;
+  bottom:300px;
+  left:270px;
+}
+.pic{
+  width:150px;
+  height:150px;
+}
+
+.selenium{
+  width:200px;
+  height:150px;
+
+}
+.java{
+  width:150px;
+  height:150px;
+
+}
+.htmlCss{
+  width:150px;
+  height:150px;
+
+}
+.skill1{
+  position: absolute;
+  left: 200px;
+}
+.skill2{
+  position: absolute;
+  right: 200px;
+}
+.skill3{
+  position: absolute;
+  left: 90px;
+}
+.info{
+  line-height: 2;
+  margin-left:10px;
+  text-align: left;
+}
+.flash{
+  margin-top:10px;
+  margin-bottom:5px
+
+  font-size: 20px;
+      font-weight: 700;
+      color: #8ebf42;
+      font-family: sans-serif;
+}
+hr{
+  border:dotted #A9A9A9 6px;
+  border-bottom: none;
+  width:8%;
+  margin:50px auto 50px auto;
+
+}
+a{
+  margin:10px 20px;
+}
